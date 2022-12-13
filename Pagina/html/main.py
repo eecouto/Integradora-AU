@@ -9,7 +9,7 @@ mysql=MySQL(app)
 
 #conexión a la base de datos
 
-app.config['MYSQL_HOST'] = 'localhost'
+app.config['MYSQL_HOST'] = 'smilecare.clh9o8yzjnjw.us-east-1.rds.amazonaws.com'
 app.config['MYSQL_USER'] = 'root'
 app.config['MYSQL_PASSWORD'] = 'Zeecpoeultion9077!'
 app.config['MYSQL_DB'] = 'smilecare'
